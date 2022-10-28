@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\src\baseFurniture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\src\decls.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\src\factory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\include\baseFurniture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\include\decls.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\include\factory.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\include\furniture.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Erupb\Documents\GitHub\tivpo6\tivpo6\part1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A796FF60-6239-39AE-BFFB-097DD6572B17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3DF00181-5C92-36DB-B366-FEA15A2A1C43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
